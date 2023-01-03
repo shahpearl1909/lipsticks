@@ -1,0 +1,16 @@
+h3{
+    font-size: 25px !important;
+}
+button{
+    font-size: 20px !important;
+    
+}
+canvas{
+    animation-name: name;
+    animation-duration: 4s;
+    animation-iteration-count:infinite;
+}
+@keyframes name{
+    from {box-shadow: 5px 5px 38px rgb(138, 196, 144);}
+    to {bow-shadow: 5px 5px 38px #ece072;}
+}
